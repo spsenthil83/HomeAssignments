@@ -11,3 +11,4 @@ console.log("DataType for Company Name is " + typeof companyName)
 console.log(mobileNumber+ " : " +typeof mobileNumber)
 console.log("Automation :" +isAutomation+ ":DataType:" +typeof isAutomation)
 console.log("undefined datatype check :" +hasPlaywright+ " : " +typeof hasPlaywright)
+// test gitignore
