@@ -1,7 +1,7 @@
 // Var - Reassignment and redeclaration is allowed
 var companyName
 console.log(companyName)
-var companyName='Virtusa' // Reassignment is allowed
+var companyName='Netflix' // Reassignment is allowed
 console.log(companyName +":"+typeof companyName)
 
 

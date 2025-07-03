@@ -1,6 +1,6 @@
 let firstName = `Senthil`
-let companyName = "Virtusa"
-let mobileNumber = 9884801818
+let companyName = "Netflix"
+let mobileNumber = 9528186331
 let isAutomation = false
 let hasPlaywright
 

@@ -1,6 +1,6 @@
 // Two type of string ==> String Literal & String Object
 
-let username = 'senthils@virtusa.com'  //String literal
+let username = 'senthilsp@test.com'  //String literal
 
 console.log("Length of UN is :" +username.length)
 // ChatAt ==> index starts from 0, returns the character at index 8

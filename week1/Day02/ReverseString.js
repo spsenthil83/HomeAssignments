@@ -1,4 +1,4 @@
-let MyName = "Senthil Sivantha Perumal"
+let MyName = "Senthil S P"
 let reverseName=""
 console.log("My Name is :" +MyName)
 for(let i=MyName.length-1;i>=0;i--){
